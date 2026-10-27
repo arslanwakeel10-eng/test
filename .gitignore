@@ -1,0 +1,7 @@
+secret/
+config.json
+bot_state.json
+trades_log.json*
+android/out/
+android/gen/
+__pycache__/
