@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.11",
-  "url": "https://github.com/arslanwakeel10-eng/test/releases/download/v11/barUp.apk",
-  "sha256": "09b6ea748295fea80bb815fe2a07255485019c71004963e199bcf0ae303db90c",
-  "notes": "Direct scan & code pairing, HTTP cleartext support, removed demo"
+  "versionCode": 12,
+  "versionName": "1.12",
+  "url": "https://github.com/arslanwakeel10-eng/test/releases/download/v12/barUp.apk",
+  "sha256": "7ea6f679ebfbdc3afccd31b7395d14c44f28a345f48fb3503a477bbdfd8b3447",
+  "notes": "v12 complete UI redesign, obsidian quant palette, animated viewfinder scanner, port 5002 proxy"
 }
